@@ -1,16 +1,10 @@
-# fingerprintsy
+# fingerprintsy-2026
 
-A new Flutter project.
+Example project - flutter Android + usb fingerprint scanner integration
 
-## Getting Started
+## FINGERPRINT SCANNER DETAILS
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MODEL: LKG-FS50
+COMM PORT: USB/C TYPE
+BRAND: LEEKGOTECH
+FINGERPRINT SENSOR: OPTICAL
